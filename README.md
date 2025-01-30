@@ -8,13 +8,13 @@ Aircraft Radar is a project that displays moving aircraft in real-time over a se
 ## 🚀 Features
 <br/>
 
-Live Map View: Displays the real-time location of moving aircraft in the selected region.
+- Live Map View: Displays the real-time location of moving aircraft in the selected region.
 
-Aircraft Details: Provides detailed information about aircraft when clicked.
+- Aircraft Details: Provides detailed information about aircraft when clicked.
 
-Route Tracking: Visualizes the routes of selected aircraft.
+- Route Tracking: Visualizes the routes of selected aircraft.
 
-List View: Displays all aircraft information in a tabular format.
+- List View: Displays all aircraft information in a tabular format.
 
 
 ## 🛠️ Technologies and Libraries Used
@@ -22,37 +22,37 @@ List View: Displays all aircraft information in a tabular format.
 
 ###  Frontend
 
-React
+- React
 
-Redux
+- Redux
 
-@reduxjs/toolkit
+- @reduxjs/toolkit
 
-React-Redux
+- React-Redux
 
-React-Router-DOM
+- React-Router-DOM
 
 ### Map and Visualization
 
-Leaflet
+- Leaflet
 
-React-Leaflet
+- React-Leaflet
 
-Leaflet-RotatedMarker
+- Leaflet-RotatedMarker
 
 ### Data Processing
 
-Axios
+- Axios
 
 ### UI and Others
 
-Bootstrap
+- Bootstrap
 
-React-Icons
+- React-Icons
 
-React-Paginate
+- React-Paginate
 
-@splidejs/react-splide
+- @splidejs/react-splide
 
 # 📸 Screenshots
 <br/>
